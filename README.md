@@ -4,17 +4,15 @@
 ## Data Validation
 Invoice Constructor Tests
 
-* Constructor Test 1 - Invoice Test
- * ------------------------------------
- * Data to be sent to constructor:
+### Constructor Test 1 - Invoice Test
+Data to be sent to constructor:
  * Invoice Number:	 100
-Balance Due:	 	212.12
-Month:		 	1
-Day:		 	15
-Year:		 	2015
+ * Balance Due:	 	212.12
+ * Month:		 	1
+ * Day:		 	15
+ * Year:		 	2015
 
-Test Results:
-------------------------------------
+#### Test Results:
 Invoice Number: 		 	    	   0
 Balance Due:			   $    212.12
 Due Date: 			 01-15-2015
