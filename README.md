@@ -31,49 +31,43 @@ Data to be sent to constructor:
  * Due Date: 			 00-15-2016
 
 
-Constructor Test 3 - Day Invalid
-------------------------------------
+### Constructor Test 3 - Day Invalid
 Data to be sent to constructor:
-Invoice Number:	 	4588
-Balance Due:	 	825.72
-Month:			 5
-Day:			 45
-Year:		 	2012
+ * Invoice Number:	 	4588
+ * Balance Due:	 	825.72
+ * Month:			 5
+ * Day:			 45
+ * Year:		 	2012
 
-Test Results:
-------------------------------------
-Invoice Number: 	                                            4588
-Balance Due:		                   $    825.72
-Due Date: 			 05-00-2012
+#### Test Results:
+ * Invoice Number: 	                                            4588
+ * Balance Due:		                   $    825.72
+ * Due Date: 			 05-00-2012
 
 
-Constructor Test 4 - Year Out of Range
-------------------------------------
+### Constructor Test 4 - Year Out of Range
 Data to be sent to constructor:
-Invoice Number:	 	7251
-Balance Due:	 	129.92
-Month:		 	7
-Day:		 	21
-Year:		 	2010
+ * Invoice Number:	 	7251
+ * Balance Due:	 	129.92
+ * Month:		 	7
+ * Day:		 	21
+ * Year:		 	2010
 
-Test Results:
-------------------------------------
-Invoice Number: 	       		            7251
-Balance Due:			   $    129.92
-Due Date: 			 07-21-0000
+#### Test Results:
+ * Invoice Number: 	       		            7251
+ * Balance Due:			   $    129.92
+ * Due Date: 			 07-21-0000
 
 
-Constructor Test 5 - All Data Valid
-------------------------------------
+### Constructor Test 5 - All Data Valid
 Data to be sent to constructor:
-Invoice Number:	 	3269
-Balance Due:	 	719.33
-Month:			9
-Day:		 	28
-Year:			2013
+ * Invoice Number:	 	3269
+ * Balance Due:	 	719.33
+ * Month:			9
+ * Day:		 	28
+ * Year:			2013
 
-Test Results:
-------------------------------------
-Invoice Number: 	      		            3269
-Balance Due:			   $    719.33
-Due Date: 			 09-28-2013
+####Test Results:
+ * Invoice Number: 	      		            3269
+ * Balance Due:			   $    719.33
+ * Due Date: 			 09-28-2013
