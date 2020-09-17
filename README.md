@@ -13,24 +13,22 @@ Data to be sent to constructor:
  * Year:		 	2015
 
 #### Test Results:
-Invoice Number: 		 	    	   0
-Balance Due:			   $    212.12
-Due Date: 			 01-15-2015
+ * Invoice Number: 		 	    	   0
+ * Balance Due:			   $    212.12
+ * Due Date: 			 01-15-2015
 
-Constructor Test 2- Month Invalid
-------------------------------------
+### Constructor Test 2- Month Invalid
 Data to be sent to constructor:
-Invoice Number:	 1245
-Balance Due:	 	315.21
-Month:		 	15
-Day:		 	15
-Year:			 2016
+ * Invoice Number:	 1245
+ * Balance Due:	 	315.21
+ * Month:		 	15
+ * Day:		 	15
+ * Year:			 2016
 
-Test Results:
-------------------------------------
-Invoice Number: 	                                            1245
-Balance Due:		                   $    315.21
-Due Date: 			 00-15-2016
+#### Test Results:
+ * Invoice Number: 	                                            1245
+ * Balance Due:		                   $    315.21
+ * Due Date: 			 00-15-2016
 
 
 Constructor Test 3 - Day Invalid
