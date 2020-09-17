@@ -2,12 +2,12 @@
  Final Project for Java I.  Creating an invoice with input and data validation. 
 
 ## Data Validation
-*Invoice Constructor Tests
+Invoice Constructor Tests
 
-Constructor Test 1 - Invoice Test
-------------------------------------
-Data to be sent to constructor:
-Invoice Number:	 100
+* Constructor Test 1 - Invoice Test
+ * ------------------------------------
+ * Data to be sent to constructor:
+ * Invoice Number:	 100
 Balance Due:	 	212.12
 Month:		 	1
 Day:		 	15
